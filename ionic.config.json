@@ -1,0 +1,7 @@
+{
+  "name": "filmesCauby",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
